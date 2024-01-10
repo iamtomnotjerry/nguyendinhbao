@@ -11,9 +11,9 @@ export default function Goals() {
             <li>Goal 4: Finish 366 questions on LeetCode - Current 4 </li>
             <li>Goal 5: Create 12 website projects - Current 0</li>
             <li>Goal 6: Create 12 machine learning/artificial intelligence projects - Current 0</li>
-            <li>Goal 7: Accumulate 1 million dollars - Current 62 dollars</li>
+            <li>Goal 7: Accumulate 1 million dollars - Current 66 dollars</li>
             <li>Goal 8: Fuck girl 52 times - Current 6</li>
-            <li>Goal 9: Reach 1 million followers on Instagram - Current 150</li>
+            <li>Goal 9: Reach 1 million followers on Instagram - Current 149</li>
           </ul>
         </div>
   )

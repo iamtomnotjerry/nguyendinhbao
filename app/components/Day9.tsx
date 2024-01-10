@@ -4,6 +4,7 @@ export default function Day9() {
   return (
     <div className="bg-gradient-to-r from-blue-200 to-blue-100 rounded-lg p-6 mx-auto shadow-md">
       <h2 className="text-3xl font-bold mb-4">Day 9/366</h2>
+      MY PWM: 94
       <div className="flex gap-4">
         <div>
           <p className="text-lg">Energy</p>
