@@ -8,6 +8,7 @@ import Goals from './components/Goals'
 import Three66Days from './components/three66days'
 import Rules from './components/Rules'
 import Day11 from './components/Day11'
+import Quote from './components/Quote'
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <div className='max-w-4xl mx-auto flex flex-col gap-6'>
         <h1 className='text-center text-4xl font-bold mb-8 text-gray-800'>2024 - So good that nobody can’t ignore me</h1>
         <Goals/>
+        <Quote/>
         <Rules/>
         <Three66Days/>
         <Day11/>
