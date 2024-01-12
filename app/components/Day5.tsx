@@ -1,5 +1,4 @@
 import React from 'react'
-import DailyPlan from './DailyPlan'
 
 export default function Day5() {
   return (
