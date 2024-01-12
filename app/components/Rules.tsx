@@ -15,14 +15,8 @@ export default function Rules() {
             <ol>8. Always No waste of money everyday</ol>
             <ol>9. Always No waste of time everyday</ol>
             <ol>11. Always drink 3 lits of water everyday</ol>
-            <ol>12. Always do Yoga 2 times everyday, one for early morning, one for before go to bed</ol>
-            <ol>13. Always push-ups 100 times everyday, more is better</ol>
             <ol>14. Always stay humble everyday</ol>
-            <ol>15. Always read 2024 goals 3 times everyday, one for early morning, one for mid day and last for before go to bed</ol>
-            <ol>16. Always Go to the gym 1 hour everyday</ol>
-            <ol>17. Always go to bed at 10PM and get up at 5AM everyday</ol>
-            <ol>18. Always do one leetcode question everyday</ol>
-            <ol>19. Always write journal everyday</ol>
+          
           </ul>
 
         </div>
