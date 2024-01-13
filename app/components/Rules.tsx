@@ -16,6 +16,7 @@ export default function Rules() {
             <ol>9. Always No waste of time everyday</ol>
             <ol>11. Always drink 3 lits of water everyday</ol>
             <ol>14. Always stay humble everyday</ol>
+            <ol>15. Always wear glasses</ol>
           
           </ul>
 

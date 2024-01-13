@@ -9,8 +9,8 @@ import Three66Days from './components/three66days'
 import Rules from './components/Rules'
 import Day11 from './components/Day11'
 import Quote from './components/Quote'
-import PerfectDay from './components/PerfectDay'
 import Day12 from './components/Day12'
+import Day14 from './components/Day14'
 
 export default function Home() {
   return (
@@ -19,9 +19,9 @@ export default function Home() {
         <h1 className='text-center text-4xl font-bold mb-8 text-gray-800'>2024 - So good that nobody can’t ignore me</h1>
         <Goals/>
         <Quote/>
-        <PerfectDay/>
         <Rules/>
         <Three66Days/>
+        <Day14/>
         <Day12/>
         <Day11/>
         <Day10/>
