@@ -10,6 +10,7 @@ import Rules from './components/Rules'
 import Day11 from './components/Day11'
 import Quote from './components/Quote'
 import PerfectDay from './components/PerfectDay'
+import Day12 from './components/Day12'
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
         <PerfectDay/>
         <Rules/>
         <Three66Days/>
+        <Day12/>
         <Day11/>
         <Day10/>
         <Day9/>
