@@ -10,6 +10,9 @@ export default function Goals() {
             <li>Goal 3: Finish reading 100 books - Current 0</li>
             <li>Goal 4: Finish 500 questions on LeetCode - Current 4 </li>
             <li>Goal 5: Create 12 website projects - Current 0</li>
+            <p>First: Bookonlinestore</p>
+            <p>Second: SDGs website</p>
+            <p>Third: Personal Online Book Store website</p>
             <li>Goal 6: Fuck girl 52 times - Current 6</li>
           </ul>
         </div>
