@@ -1,6 +1,7 @@
 
 import Day22 from './components/Day23'
 import Day24 from './components/Day24'
+import Day25 from './components/Day25'
 import Goals from './components/Goals'
 import Three66Days from './components/three66days'
 
@@ -12,6 +13,7 @@ export default function Home() {
         <h1 className='text-center text-4xl font-bold mb-8 text-gray-800'>2024 - So good that nobody can’t ignore mee</h1>
         <Goals/>
         <Three66Days/>
+        <Day25/>
         <Day24/>
         <Day22/>
       </div>
